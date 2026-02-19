@@ -1,3 +1,5 @@
+!NON-TIME DEPENDENT BILLIARD
+
 module parametros
 real*8, parameter::r0=1.0d0
 integer, parameter::m=3
@@ -241,3 +243,4 @@ end if
 end do
 
 end
+
